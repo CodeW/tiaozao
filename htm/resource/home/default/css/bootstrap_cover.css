@@ -1,0 +1,13 @@
+#menu .nav {margin-bottom: 0;}
+#menu .tab-content {padding:0 3%;}
+#menu .tab-pane {text-align: center;}
+
+#goodsCat {padding-top: 8px;}
+
+#content {padding-top: 20px;}
+
+#header .breadcrumb{margin: 0; height: 24px; line-height: 24px;}
+
+#content .thumbnails h5 span {display: inline-block; width: 47%;}
+#content #productName {padding-left: 5px; text-align: left; overflow: hidden; white-space: nowrap;}
+#content #productPrice {padding-right: 5px; text-align: right; color: red;}

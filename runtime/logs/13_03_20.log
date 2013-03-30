@@ -1,0 +1,94 @@
+[ 2013-03-20T00:12:50+08:00 ] 127.0.0.1 /tiaozao/htm/
+NOTIC: [8] Use of undefined constant __GROUP__ - assumed '__GROUP__' F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\Dispatcher.class.php 第 165 行.
+NOTIC: [8] Constant THEME_NAME already defined F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\App.class.php 第 93 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 335 行.
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.002080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002174s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant __GROUP__ - assumed '__GROUP__' F:\localhost\tiaozao\common\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 43 行.
+INFO: Run ContentReplace Behavior [ RunTime:0.001004s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001435s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000868s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001009s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004533s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001160s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001231s ]
+
+[ 2013-03-20T22:25:50+08:00 ] 127.0.0.1 /tiaozao/htm/
+NOTIC: [8] Use of undefined constant __GROUP__ - assumed '__GROUP__' F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\Dispatcher.class.php 第 165 行.
+NOTIC: [8] Constant THEME_NAME already defined F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\App.class.php 第 93 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003145s ]
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 335 行.
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.001957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002033s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant __GROUP__ - assumed '__GROUP__' F:\localhost\tiaozao\common\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 43 行.
+INFO: Run ContentReplace Behavior [ RunTime:0.001127s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000854s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000734s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003803s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001055s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2013-03-20T22:28:01+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2013-03-20T22:28:19+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2013-03-20T22:28:31+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2013-03-20T22:29:16+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2013-03-20T22:29:18+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2013-03-20T22:29:28+08:00 ] ERR: (ThinkException) 无法加载模块:Index
+[ 2013-03-20T22:30:28+08:00 ] 127.0.0.1 /tiaozao/htm/
+NOTIC: [8] Use of undefined constant __GROUP__ - assumed '__GROUP__' F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\Dispatcher.class.php 第 165 行.
+NOTIC: [8] Constant THEME_NAME already defined F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\App.class.php 第 93 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 335 行.
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.001954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002045s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant __GROUP__ - assumed '__GROUP__' F:\localhost\tiaozao\common\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 43 行.
+INFO: Run ContentReplace Behavior [ RunTime:0.001039s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000803s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000671s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004149s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001245s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2013-03-20T22:32:26+08:00 ] 127.0.0.1 /tiaozao/htm/
+NOTIC: [8] Use of undefined constant __GROUP__ - assumed '__GROUP__' F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\Dispatcher.class.php 第 165 行.
+NOTIC: [8] Constant THEME_NAME already defined F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\App.class.php 第 93 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 335 行.
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 336 行.
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.001500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001576s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant __GROUP__ - assumed '__GROUP__' F:\localhost\tiaozao\common\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 43 行.
+INFO: Run ContentReplace Behavior [ RunTime:0.000656s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000678s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000529s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002739s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000952s ]
+

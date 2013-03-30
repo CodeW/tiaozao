@@ -1,0 +1,76 @@
+[ 2013-03-23T21:29:54+08:00 ] 127.0.0.1 /tiaozao/htm/
+NOTIC: [8] Constant THEME_NAME already defined F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\App.class.php 第 93 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.325063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.325188s ]
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 341 行.
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 342 行.
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.146205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.146328s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.122786s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.037536s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.096151s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.056676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.313442s ]
+INFO: [ view_end ] --START--
+
+[ 2013-03-23T23:15:33+08:00 ] 127.0.0.1 /tiaozao/htm/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 341 行.
+NOTIC: [8] Undefined variable: model F:\localhost\tiaozao\common\ThinkPHP\Common\common.php 第 342 行.
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.002144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002237s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000881s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000850s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000912s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001665s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004648s ]
+INFO: [ view_end ] --START--
+
+[ 2013-03-23T23:16:05+08:00 ] ERR: [64] Cannot redeclare Model::_initialize() F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\Model.class.php 第 1367 行.
+[ 2013-03-23T23:19:10+08:00 ] ERR: (ThinkException) Access denied for user 'root'@'localhost' (using password: NO)
+[ 2013-03-23T23:19:10+08:00 ] 127.0.0.1 /tiaozao/htm/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002185s ]
+NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) F:\localhost\tiaozao\common\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 50 行.
+NOTIC: [8] Undefined index: class F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: file F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 62 行.
+NOTIC: [8] Undefined index: line F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 62 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 64 行.
+NOTIC: [8] Undefined index: class F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+
+[ 2013-03-23T23:22:07+08:00 ] ERR: (ThinkException) Unknown database 'tiaozao'
+[ 2013-03-23T23:22:07+08:00 ] 127.0.0.1 /tiaozao/htm/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+NOTIC: [8] Undefined index: class F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: file F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 62 行.
+NOTIC: [8] Undefined index: line F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 62 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 64 行.
+NOTIC: [8] Undefined index: class F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+
+[ 2013-03-23T23:23:06+08:00 ] ERR: (ThinkException) Unknown database 'tiaozao'
+[ 2013-03-23T23:23:06+08:00 ] 127.0.0.1 /tiaozao/htm/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+NOTIC: [8] Undefined index: class F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: file F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 62 行.
+NOTIC: [8] Undefined index: line F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 62 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 64 行.
+NOTIC: [8] Undefined index: class F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type F:\localhost\tiaozao\common\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+
